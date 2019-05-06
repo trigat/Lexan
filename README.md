@@ -10,6 +10,10 @@ $ ruby lexan.rb
 You need to install the Curses module for Ruby.
 This can usually be done with a command such as:
 
+$ apt-get install ruby-curses
+
+or 
+
 $ gem install curses
 
 or
