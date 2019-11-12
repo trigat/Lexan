@@ -19,3 +19,9 @@ $ gem install curses
 or
 
 $ apt-get install curses
+
+Use these commands for Ubuntu 18.04:
+
+sudo apt-get install ruby`ruby -e 'puts RUBY_VERSION[/\d+\.\d+/]'`-dev
+sudo apt-get install libncurses5-dev libncursesw5-dev
+sudo gem install curses
