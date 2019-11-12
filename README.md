@@ -1,4 +1,4 @@
-Lexan - GPG Encryption Manager
+<b>Lexan - GPG Encryption Manager</b>
 Copyright (C) 2018, Josh M <mcu@protonmail.com>  
 
 Lexan is a command line GPG encryption manager that is written in Ruby.
@@ -22,6 +22,6 @@ $ apt-get install curses
 
 Use these commands for Ubuntu 18.04:
 
-sudo apt-get install ruby`ruby -e 'puts RUBY_VERSION[/\d+\.\d+/]'`-dev //
-sudo apt-get install libncurses5-dev libncursesw5-dev \\
+sudo apt-get install ruby`ruby -e 'puts RUBY_VERSION[/\d+\.\d+/]'`-dev<br>
+sudo apt-get install libncurses5-dev libncursesw5-dev<br>
 sudo gem install curses
