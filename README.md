@@ -1,10 +1,10 @@
-<h2><font color="red">Lexan - GPG Encryption Manager</font></h2><br>
+<h2>Lexan - GPG Encryption Manager</h2><br>
 <b>Copyright (C) 2018, Josh M <mcu@protonmail.com></b>
 
 Lexan is a command line GPG encryption manager that is written in Ruby.<br>
 It was created to assist in navigating through GPG commands easily in the Linux terminal.
 
-Install Ruby on your computer and run the program with the command:<br>
+Install Ruby on your computer and run the program with the command:<br><br>
 <b>$ ruby lexan.rb</b>
 
 You need to install the Curses module for Ruby.<br>
